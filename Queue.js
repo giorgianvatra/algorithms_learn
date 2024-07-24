@@ -1,3 +1,6 @@
+// first in first out 
+
+
 class Queue{
     constructor(){
       this.tail = this.head = undefined; 
